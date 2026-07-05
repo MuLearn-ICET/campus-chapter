@@ -1,66 +1,106 @@
 {
-    "collegeCode": "SNT",
+    "collegeCode": "ICET",
 
-    "college": "Sree Narayana Guru Institute of Science and Technology",
+    "college": "Ilahia College of Engineering and Technology",
 
-    "about": "Lorem ipsum dolor sit amet consectetur adipiscing, elit ultricies imperdiet neque mattis, orci pellentesque turpis facilisi leo. Laoreet donec tortor sagittis habitasse eleifend conubia quis lacinia accumsan auctor, montes morbi natoque convallis integer aliquam posuere eu nulla, proin fames dapibus mattis sociis ligula blandit quam potenti. Himenaeos fringilla tincidunt aptent porta ultrices velit dignissim senectus purus suspendisse, fames eleifend feugiat nam hac montes semper pretium potenti, viverra curae netus volutpat cras per eu cubilia primis.",
+    "about": "Welcome to µLearn ICET, the premier student-driven peer learning and innovation community at Ilahia College of Engineering and Technology. We bridge the gap between academic theory and industry demands by transforming campus ecosystems into active collaborative hubs. Through structured Learning Circles, gamified upskilling, and real-world tech challenges, we empower students to code, design, build, and lead tomorrow’s tech landscape together.",
 
     "events": [
         {
-            "month": "Sep",
-            "date": "29",
-            "head": "Event 1",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "month": "Jul",
+            "date": "04",
+            "head": "Build with AI: Vibe Coding",
+            "para": "Interactive virtual session on Vibe Coding and building with AI agents, hosted in collaboration with Google for Developers and MakeMyPass.",
+            "img": "/events/vibe_coding.jpg"
         },
         {
-            "month": "Sep",
-            "date": "27",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
+            "month": "Jun",
             "date": "26",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "head": "µFM Ep. 4: Beyond the Browser",
+            "para": "Web Development session with Aaron R Thomas (AI + Compassion Web Development Lead). Exploring the world of web dev.",
+            "img": "/events/ufm_ep4.jpg"
         },
         {
-            "month": "Sep",
-            "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "month": "Jun",
+            "date": "19",
+            "head": "µFM Ep. 3: Cracking the Code",
+            "para": "Competitive Programming session with Manupriya Vayalambron (Computer Engineer). Cracking the world of competitive coding.",
+            "img": "/events/ufm_ep3.jpg"
         },
         {
-            "month": "Sep",
+            "month": "Jun",
+            "date": "12",
+            "head": "µFM Ep. 2: Beyond the Frame",
+            "para": "Video Editing exploration session with Abel John Thomas (Video Editor, Intern at µLearn). Exploring the art of video editing.",
+            "img": "/events/ufm_ep2.jpg"
+        },
+        {
+            "month": "Jun",
+            "date": "06",
+            "head": "µFM Ep. 1: Cyber Security & Hacking",
+            "para": "Cyber Security & Ethical Hacking session with Dany Koshy (µLearn Software Cluster Associate, Product Specialist at Phottam AI).",
+            "img": "/events/ufm_ep1.jpg"
+        },
+        {
+            "month": "Apr",
+            "date": "12",
+            "head": "Inspirational Talk: Let Him Fly",
+            "para": "Special session with Syam Kumar S S. Against all odds, he's rising. Against all limits, he's flying. Let him fly.",
+            "img": "/events/let_him_fly.jpg"
+        },
+        {
+            "month": "Mar",
             "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "head": "Artificial Intelligence Bootcamp",
+            "para": "A 2-day immersive online bootcamp on AI upskilling, hosted by Arnav Jagadeesh (AI Interest Group Lead at µLearn).",
+            "img": "/events/ai_bootcamp.jpg"
+        },
+        {
+            "month": "Mar",
+            "date": "03",
+            "head": "Beyond the Loop ver 2.0",
+            "para": "Collaborative event hosted by IEEE ICET, TinkerHub ICET, IEDC, and µLearn ICET. The unknown arrives!",
+            "img": "/events/beyond_the_loop.jpg"
+        },
+        {
+            "month": "Feb",
+            "date": "18",
+            "head": "Developing Kochi Water Metro",
+            "para": "Huge congratulations to Eldho Baby (Campus Mentor) on being recognized for developing the official Kochi Water Metro website!",
+            "img": "/events/eldho_congrats.jpg"
         }
     ],
 
     "gallery": {
         "row1": [
             {
-                "image": "https://mulearn.org/assets/home/illustration.webp"
+                "image": "/gallery/mountain_call.jpg"
             },
             {
-                "image": "https://mulearn.org/assets/home/Chart.webp"
+                "image": "/gallery/hack_kp.jpg"
             },
 			{
-				"image": "https://learn.mulearn.org/assets/challenge/typingsample.webp"
-			}
+				"image": "/gallery/karma_100k.jpg"
+			},
+            {
+                "image": "/gallery/study_jam.jpg"
+            },
+            {
+                "image": "/events/beyond_the_loop.jpg"
+            }
         ],
         "row2": [
             {
-                "image": "https://th.bing.com/th/id/OIP.p5zC9uLm5ByGSy8gYI0McAHaE8?pid=ImgDet&rs=1"
+                "image": "/gallery/vibe_coding_workshop.jpg"
             },
             {
-                "image": "https://images.squarespace-cdn.com/content/v1/5c710438b914490d5769a64f/b4fb2b4f-5f95-41a1-9416-d156d0ae273f/Most+Famous+Astrologer+in+the+World.jpg"
+                "image": "/gallery/interactive_presentation.jpg"
+            },
+            {
+                "image": "/gallery/global_game_jam.jpg"
+            },
+            {
+                "image": "/events/let_him_fly.jpg"
             }
         ]
     },
@@ -73,50 +113,108 @@
         "rank": 28
     },
 
-    "team": {
-        "staffAdvisor": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+    "team": [
+        {
+            "name": "Eldho Baby",
+            "role": "Campus Mentor",
+            "image": "/team/eldho.jpg"
         },
-        "campusLead": {
-            "name": "Elon Musk",
-            "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
+        {
+            "name": "Rejith R",
+            "role": "Lead Enabler",
+            "image": "/team/rejith.jpg"
         },
-        "campusCoLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+            "name": "Mathson Beshy",
+            "role": "Lead Alumni",
+            "image": "/team/mathson.jpg"
         },
-        "treasurer": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+            "name": "Hanna Sara Prasad",
+            "role": "Campus Lead",
+            "image": "/team/hanna.jpg"
         },
-        "technicalLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+            "name": "Muhammad Nasih Sadik",
+            "role": "Campus Co-Lead",
+            "image": "/team/nasih.jpg"
         },
-        "mediaLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+            "name": "ASHIQUE K M",
+            "role": "Muplay IG Lead",
+            "image": "/team/ashique.jpg"
         },
-        "contentLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+            "name": "Fathima Faniyya",
+            "role": "Web IG Lead",
+            "image": "/team/faniyya.jpg"
         },
-        "operationLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        {
+            "name": "Hudha Nazrin",
+            "role": "Tech Lead",
+            "image": "/team/hudha.jpg"
+        },
+        {
+            "name": "Hadiya KS",
+            "role": "AI IG Lead",
+            "image": "/team/hadiya.jpg"
+        },
+        {
+            "name": "Amrita Prabha R",
+            "role": "Creative Lead",
+            "image": "/team/amrita.jpg"
+        },
+        {
+            "name": "Muhammed Anvarul Haq",
+            "role": "Design Lead",
+            "image": "/team/anvar.jpg"
+        },
+        {
+            "name": "Muhammed Irfan",
+            "role": "Media Lead",
+            "image": "/team/muhammed_irfan.jpg"
+        },
+        {
+            "name": "Arafan Salim",
+            "role": "Media Lead",
+            "image": "/team/arafan.jpg"
+        },
+        {
+            "name": "Fidha Fathima",
+            "role": "Competitive Coding IG Lead",
+            "image": "/team/fidha.jpg"
+        },
+        {
+            "name": "Fathima Nasmin KP",
+            "role": "Competitive Coding IG Lead",
+            "image": "/team/nasmin.jpg"
+        },
+        {
+            "name": "Muhamed Naaz Naseer",
+            "role": "Cyber Security IG Lead",
+            "image": "/team/naaz.jpg"
+        },
+        {
+            "name": "Farsana Kabeer",
+            "role": "Marketing & Finance Lead",
+            "image": "/team/farsana.jpg"
+        },
+        {
+            "name": "Hanan K",
+            "role": "Operations Lead",
+            "image": "/team/hanan.jpg"
         }
-    },
+    ],
 
-    "discordLink": "",
+    "discordLink": "https://discord.gg/dHxkxM9AW",
 
-    "whatsAppLink": "",
+    "whatsAppLink": "https://chat.whatsapp.com/InIkKVS8QGnJgFoYrRrYC6",
 
-    "email": "mulearn@cce.edu.in",
+    "email": "mulearn@icet.ac.in",
 
-    "linkedIn": "",
+    "linkedIn": "https://www.linkedin.com/company/mulearn-icet/",
 
-    "instagram": "",
+    "instagram": "https://www.instagram.com/mulearn.icet?igsh=MTVoNTN0MXFidWVjZg==",
 
     "twitter": "",
 
